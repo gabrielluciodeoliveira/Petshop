@@ -1,0 +1,112 @@
+body
+{
+    margin: 0;
+    background-color: #B9BAB9;
+    font-family: 'Inter', sans-serif;
+}
+header
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #4B6746;
+    
+}
+.icone img
+{
+    width: 35px;
+    height: 28px;
+    color: #fff;
+}       
+.logotipo img
+{
+    width: 94px;
+    height: 87px;
+}
+.pesquisar
+{
+    display: flex;
+    align-items: center;
+}
+.cards
+{
+    display: flex;
+    justify-content: space-around;
+
+}
+.cards img
+{
+    display: flex;
+    width: 224px;
+    height: 240px;
+    border-radius: 10px;
+}
+.categorias
+{   
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #D9D9D9;
+    margin: 5% 5%;
+}
+footer
+{
+    background-color: #4B6746;
+    color: #fff;
+}
+
+footer img
+{
+    width: 32px;
+    height: 30px;
+}
+.pesquisar
+{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.pesquisar input
+{
+    border-radius: 10px;
+    width: 577px;
+    height: 31px;
+    text-align: center;
+    border: none;
+}
+.nav
+{
+    display: flex;
+    text-decoration: none;
+    color: #000 ;
+}
+h2
+{
+    display: flex;
+    justify-content: center;
+}
+#hamburguer
+{
+    display: none;
+}
+nav a
+{
+    color: #fff;
+    text-decoration: none;
+    padding: 20px;
+}
+#login a
+{
+    color: #fff;
+}
+.categorias a
+{
+    color: #000;
+    text-decoration: none;
+}
+h3
+{
+    display: flex;
+    justify-content: center;
+}
